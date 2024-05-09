@@ -1,0 +1,38 @@
+{
+    "title": "Swap 2 Variables",
+    "description": "",
+    "filepath": "Revision/Swap-2-Variables/Swap-2-Variables.zip",
+    "author": "",
+    "timeCreated": "2023-12-10T10:22:17.118Z",
+    "timeUpdated": "2023-12-11T09:25:08.262Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "1 2",
+            "input": "1\n2",
+            "output": "a: b: a: 2\nb: 1",
+            "type": "exact",
+            "timeCreated": "2023-12-10T10:24:47.257Z",
+            "timeUpdated": "2023-12-10T10:31:32.568Z"
+        },
+        {
+            "name": "Apple Orange",
+            "input": "Apple\nOrange",
+            "output": "a: b: a: Orange\nb: Apple",
+            "type": "exact",
+            "timeCreated": "2023-12-10T10:29:41.443Z",
+            "timeUpdated": "2023-12-10T10:31:02.628Z"
+        },
+        {
+            "name": "Hello World",
+            "input": "Hello\nWorld",
+            "output": "a: b: a: World\nb: Hello",
+            "type": "exact",
+            "timeCreated": "2023-12-10T10:25:02.882Z",
+            "timeUpdated": "2023-12-10T10:31:52.736Z"
+        }
+    ],
+    "unitTests": []
+}

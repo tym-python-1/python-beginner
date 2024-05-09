@@ -1,0 +1,54 @@
+{
+    "title": "For Loop: Is Palindrome",
+    "description": "",
+    "filepath": "Loops-For-and-While/For-Loop-Is-Palindrome/For-Loop-Is-Palindrome.zip",
+    "author": "",
+    "timeCreated": "2023-12-13T09:08:52.038Z",
+    "timeUpdated": "2023-12-13T09:39:21.873Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "kayak",
+            "input": "kayak",
+            "output": "True",
+            "type": "exact",
+            "timeCreated": "2023-12-13T09:08:52.046Z",
+            "timeUpdated": "2023-12-13T09:27:35.551Z"
+        },
+        {
+            "name": "noon",
+            "input": "noon",
+            "output": "True",
+            "type": "exact",
+            "timeCreated": "2023-12-13T09:08:52.046Z",
+            "timeUpdated": "2023-12-13T09:28:12.448Z"
+        },
+        {
+            "name": "python",
+            "input": "python",
+            "output": "False",
+            "type": "exact",
+            "timeCreated": "2023-12-13T09:28:21.950Z",
+            "timeUpdated": "2023-12-13T09:28:21.950Z"
+        },
+        {
+            "name": "tacocat",
+            "input": "tacocat",
+            "output": "True",
+            "type": "exact",
+            "timeCreated": "2023-12-13T09:08:52.046Z",
+            "timeUpdated": "2023-12-13T09:28:33.198Z"
+        },
+        {
+            "name": "halloween",
+            "input": "halloween",
+            "output": "False",
+            "type": "exact",
+            "timeCreated": "2023-12-13T09:08:52.046Z",
+            "timeUpdated": "2023-12-13T09:28:42.509Z"
+        }
+    ],
+    "unitTests": []
+}

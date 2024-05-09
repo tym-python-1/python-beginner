@@ -1,0 +1,70 @@
+{
+    "title": "While Loop: Greater than previous",
+    "description": "",
+    "filepath": "Loops-For-and-While/While-Loop-Greater-than-previous/While-Loop-Greater-than-previous.zip",
+    "author": "",
+    "timeCreated": "2023-10-04T07:53:18.531Z",
+    "timeUpdated": "2023-11-22T23:12:51.332Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "5 1 5 1 5 0",
+            "input": "5\n1\n5\n1\n5\n0",
+            "output": "2",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "1 5 1 5 1 0",
+            "input": "1\n5\n1\n5\n1\n0",
+            "output": "2",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "5 4 3 2 1 0",
+            "input": "5\n4\n3\n2\n1\n0",
+            "output": "0",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "5 5 5 5 5 0",
+            "input": "5\n5\n5\n5\n5\n0",
+            "output": "0",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "1 1 1 5 1 0",
+            "input": "1\n1\n1\n5\n1\n0",
+            "output": "1",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "345354 0",
+            "input": "345354\n0",
+            "output": "0",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "1 2 3 0 7 6 5 4 3 2",
+            "input": "1\n2\n3\n0\n7\n6\n5\n4\n3\n2\n1",
+            "output": "2",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        }
+    ],
+    "unitTests": []
+}

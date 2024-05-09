@@ -1,0 +1,30 @@
+{
+    "title": "Debug Code 1: Syntax",
+    "description": "",
+    "filepath": "Revision/Debug-Code-1-Syntax/Debug-Code-1-Syntax.zip",
+    "author": "",
+    "timeCreated": "2023-12-10T10:35:25.485Z",
+    "timeUpdated": "2024-01-03T19:21:33.080Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": false,
+    "templateTests": [
+        {
+            "name": "red",
+            "input": "red",
+            "output": "Guess John's favourite color: Correct!\nJohn's favourite colour is red!",
+            "type": "exact",
+            "timeCreated": "2023-12-11T08:18:58.352Z",
+            "timeUpdated": "2023-12-11T08:19:58.851Z"
+        },
+        {
+            "name": "blue",
+            "input": "blue",
+            "output": "Guess John's favourite color: Wrong!\nJohn's favourite colour is red!",
+            "type": "exact",
+            "timeCreated": "2023-12-11T08:20:08.178Z",
+            "timeUpdated": "2023-12-11T08:20:08.178Z"
+        }
+    ],
+    "unitTests": []
+}

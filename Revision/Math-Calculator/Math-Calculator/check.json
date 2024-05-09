@@ -1,0 +1,54 @@
+{
+    "title": "Math Calculator",
+    "description": "",
+    "filepath": "Revision/Math-Calculator/Math-Calculator.zip",
+    "author": "",
+    "timeCreated": "2023-12-11T09:01:26.844Z",
+    "timeUpdated": "2024-01-05T10:18:28.069Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": false,
+    "templateTests": [
+        {
+            "name": "minus 10 4",
+            "input": "minus\n10\n4",
+            "output": "Math operation(add/minus/times/divide): First number: Second number: 6",
+            "type": "exact",
+            "timeCreated": "2023-12-11T09:11:36.344Z",
+            "timeUpdated": "2023-12-11T09:11:36.345Z"
+        },
+        {
+            "name": "add 3 5",
+            "input": "add\n3\n5",
+            "output": "Math operation(add/minus/times/divide): First number: Second number: 8",
+            "type": "exact",
+            "timeCreated": "2023-12-11T09:10:10.886Z",
+            "timeUpdated": "2023-12-11T09:10:10.887Z"
+        },
+        {
+            "name": "divide 5 2",
+            "input": "divide\n5\n2",
+            "output": "Math operation(add/minus/times/divide): First number: Second number: 2.5",
+            "type": "exact",
+            "timeCreated": "2023-12-11T09:10:40.221Z",
+            "timeUpdated": "2023-12-11T09:10:40.221Z"
+        },
+        {
+            "name": "divide 5 1",
+            "input": "divide\n5\n1",
+            "output": "Math operation(add/minus/times/divide): First number: Second number: 5.0",
+            "type": "exact",
+            "timeCreated": "2023-12-11T09:10:57.906Z",
+            "timeUpdated": "2023-12-11T09:10:57.906Z"
+        },
+        {
+            "name": "times 5 7",
+            "input": "times\n5\n7",
+            "output": "Math operation(add/minus/times/divide): First number: Second number: 35",
+            "type": "exact",
+            "timeCreated": "2023-12-11T09:11:18.689Z",
+            "timeUpdated": "2023-12-11T09:11:18.689Z"
+        }
+    ],
+    "unitTests": []
+}

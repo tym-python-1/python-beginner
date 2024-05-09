@@ -1,0 +1,22 @@
+{
+    "title": "Import from other file",
+    "description": "",
+    "filepath": "Import-keyword/Import-from-other-file/Import-from-other-file.zip",
+    "author": "",
+    "timeCreated": "2023-10-04T07:30:59.350Z",
+    "timeUpdated": "2024-01-02T19:35:32.042Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "Answer",
+            "input": "",
+            "output": "You have called a function from another file!\nThe password is \"I am a Young Maker!\"",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:30:59.362Z",
+            "timeUpdated": "2023-10-04T07:30:59.362Z"
+        }
+    ],
+    "unitTests": []
+}

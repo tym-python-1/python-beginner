@@ -1,0 +1,46 @@
+{
+    "title": "Parameters and Arguments: Calculator function",
+    "description": "",
+    "filepath": "Parameters-and-Arguments/Parameters-and-Arguments-Calculator-function/Parameters-and-Arguments-Calculator-function.zip",
+    "author": "",
+    "timeCreated": "2023-12-27T19:21:59.237Z",
+    "timeUpdated": "2023-12-27T19:40:35.656Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "add 1 2",
+            "input": "add\n1\n2",
+            "output": "3",
+            "type": "exact",
+            "timeCreated": "2023-12-27T19:21:59.247Z",
+            "timeUpdated": "2023-12-27T19:38:14.951Z"
+        },
+        {
+            "name": "minus 1231 1000",
+            "input": "minus\n1231\n1000",
+            "output": "231",
+            "type": "exact",
+            "timeCreated": "2023-12-27T19:21:59.247Z",
+            "timeUpdated": "2023-12-27T19:38:42.281Z"
+        },
+        {
+            "name": "times 3 5",
+            "input": "times\n3\n5",
+            "output": "15",
+            "type": "exact",
+            "timeCreated": "2023-12-27T19:21:59.247Z",
+            "timeUpdated": "2023-12-27T19:38:53.445Z"
+        },
+        {
+            "name": "divide 7 2",
+            "input": "divide\n7\n2",
+            "output": "3.5",
+            "type": "exact",
+            "timeCreated": "2023-12-27T19:39:16.147Z",
+            "timeUpdated": "2023-12-27T19:39:16.147Z"
+        }
+    ],
+    "unitTests": []
+}

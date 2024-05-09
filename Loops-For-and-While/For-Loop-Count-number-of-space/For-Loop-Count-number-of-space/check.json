@@ -1,0 +1,46 @@
+{
+    "title": "For Loop: Count number of space",
+    "description": "",
+    "filepath": "Loops-For-and-While/For-Loop-Count-number-of-space/For-Loop-Count-number-of-space.zip",
+    "author": "",
+    "timeCreated": "2023-12-13T08:45:11.430Z",
+    "timeUpdated": "2023-12-13T08:59:28.625Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "hello world!",
+            "input": "hello world!",
+            "output": "1",
+            "type": "exact",
+            "timeCreated": "2023-12-13T08:45:11.441Z",
+            "timeUpdated": "2023-12-13T08:56:38.908Z"
+        },
+        {
+            "name": "I like to move it ",
+            "input": "I like to move it move it",
+            "output": "6",
+            "type": "exact",
+            "timeCreated": "2023-12-13T08:45:11.441Z",
+            "timeUpdated": "2023-12-13T08:57:02.265Z"
+        },
+        {
+            "name": "PYTHON!",
+            "input": "PYTHON!",
+            "output": "0",
+            "type": "exact",
+            "timeCreated": "2023-12-13T08:45:11.441Z",
+            "timeUpdated": "2023-12-13T08:57:15.185Z"
+        },
+        {
+            "name": "<blank>",
+            "input": " ",
+            "output": "1",
+            "type": "exact",
+            "timeCreated": "2023-12-13T08:45:11.441Z",
+            "timeUpdated": "2023-12-13T08:57:26.409Z"
+        }
+    ],
+    "unitTests": []
+}

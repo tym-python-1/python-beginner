@@ -1,0 +1,46 @@
+{
+    "title": "While Loop: Sum of Numbers",
+    "description": "",
+    "filepath": "Loops-For-and-While/While-Loop-Sum-of-Numbers/While-Loop-Sum-of-Numbers.zip",
+    "author": "",
+    "timeCreated": "2023-12-15T15:53:11.656Z",
+    "timeUpdated": "2023-12-15T17:10:14.369Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "1 2 2 q",
+            "input": "1\n2\n2\nq",
+            "output": "5",
+            "type": "exact",
+            "timeCreated": "2023-12-15T16:06:22.129Z",
+            "timeUpdated": "2023-12-15T16:06:22.130Z"
+        },
+        {
+            "name": "q",
+            "input": "q",
+            "output": "0",
+            "type": "exact",
+            "timeCreated": "2023-12-15T16:06:37.498Z",
+            "timeUpdated": "2023-12-15T16:06:37.498Z"
+        },
+        {
+            "name": "1 q",
+            "input": "1\nq",
+            "output": "1",
+            "type": "exact",
+            "timeCreated": "2023-12-15T16:06:29.966Z",
+            "timeUpdated": "2023-12-15T16:06:42.833Z"
+        },
+        {
+            "name": "131 1318 178 123 1 q",
+            "input": "131\n1318\n178\n123\n1\nq",
+            "output": "1751",
+            "type": "exact",
+            "timeCreated": "2023-12-15T16:07:44.008Z",
+            "timeUpdated": "2023-12-15T16:07:44.008Z"
+        }
+    ],
+    "unitTests": []
+}

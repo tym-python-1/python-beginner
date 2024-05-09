@@ -1,0 +1,30 @@
+{
+    "title": "Scopes and Lifetime: Debug code 2",
+    "description": "",
+    "filepath": "Scopes-and-Lifetime/Scopes-and-Lifetime-Debug-code-2/Scopes-and-Lifetime-Debug-code-2.zip",
+    "author": "",
+    "timeCreated": "2023-12-29T19:55:02.760Z",
+    "timeUpdated": "2024-01-05T20:07:35.827Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "Alice",
+            "input": "Alice",
+            "output": "Enter your name: Hello, Alice",
+            "type": "exact",
+            "timeCreated": "2023-12-29T19:55:02.773Z",
+            "timeUpdated": "2023-12-29T20:00:03.473Z"
+        },
+        {
+            "name": "Bob",
+            "input": "Bob",
+            "output": "Enter your name: Hello, Bob",
+            "type": "exact",
+            "timeCreated": "2023-12-29T20:05:30.488Z",
+            "timeUpdated": "2023-12-29T20:05:30.488Z"
+        }
+    ],
+    "unitTests": []
+}

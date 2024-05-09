@@ -1,0 +1,38 @@
+{
+    "title": "[Bonus] Swap 3 Variables",
+    "description": "",
+    "filepath": "Revision/Bonus-Swap-3-Variables/Bonus-Swap-3-Variables.zip",
+    "author": "",
+    "timeCreated": "2023-12-11T09:48:09.951Z",
+    "timeUpdated": "2023-12-11T11:42:25.122Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "1 2 3",
+            "input": "1\n2\n3",
+            "output": "a: b: c: a: 3\nb: 1\nc: 2",
+            "type": "exact",
+            "timeCreated": "2023-12-11T09:48:09.964Z",
+            "timeUpdated": "2023-12-11T11:41:30.676Z"
+        },
+        {
+            "name": "I love python",
+            "input": "I\nlove\npython",
+            "output": "a: b: c: a: python\nb: I\nc: love",
+            "type": "exact",
+            "timeCreated": "2023-12-11T09:48:09.964Z",
+            "timeUpdated": "2023-12-11T11:41:45.542Z"
+        },
+        {
+            "name": "Apple Banana Orange",
+            "input": "Apple\nBanana\nOrange",
+            "output": "a: b: c: a: Orange\nb: Apple\nc: Banana",
+            "type": "exact",
+            "timeCreated": "2023-12-11T09:48:09.963Z",
+            "timeUpdated": "2023-12-11T11:41:55.887Z"
+        }
+    ],
+    "unitTests": []
+}

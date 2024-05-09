@@ -1,0 +1,38 @@
+{
+    "title": "While Loop: Factors of a Number",
+    "description": "",
+    "filepath": "Loops-For-and-While/While-Loop-Factors-of-a-Number/While-Loop-Factors-of-a-Number.zip",
+    "author": "",
+    "timeCreated": "2023-12-14T09:03:39.935Z",
+    "timeUpdated": "2023-12-14T14:39:57.849Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "8",
+            "input": "8",
+            "output": "1\n2\n4\n8",
+            "type": "exact",
+            "timeCreated": "2023-12-14T09:04:54.046Z",
+            "timeUpdated": "2023-12-14T09:04:54.046Z"
+        },
+        {
+            "name": "7",
+            "input": "7",
+            "output": "1\n7",
+            "type": "exact",
+            "timeCreated": "2023-12-14T09:05:03.979Z",
+            "timeUpdated": "2023-12-14T09:05:03.979Z"
+        },
+        {
+            "name": "30",
+            "input": "30",
+            "output": "1\n2\n3\n5\n6\n10\n15\n30",
+            "type": "exact",
+            "timeCreated": "2023-12-14T09:05:47.664Z",
+            "timeUpdated": "2023-12-14T09:14:10.391Z"
+        }
+    ],
+    "unitTests": []
+}

@@ -1,0 +1,38 @@
+{
+    "title": "BMI Calculator",
+    "description": "",
+    "filepath": "Revision/BMI-Calculator/BMI-Calculator.zip",
+    "author": "",
+    "timeCreated": "2023-10-04T07:20:26.223Z",
+    "timeUpdated": "2023-12-11T10:28:05.085Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "1.75 60.5",
+            "input": "1.75\n60.5",
+            "output": "enter your height in m: enter your weight in kg: 20",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        },
+        {
+            "name": "1.65 40",
+            "input": "1.65\n40",
+            "output": "enter your height in m: enter your weight in kg: 15",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        },
+        {
+            "name": "1.65 80",
+            "input": "1.65\n80",
+            "output": "enter your height in m: enter your weight in kg: 29",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        }
+    ],
+    "unitTests": []
+}

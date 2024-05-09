@@ -1,0 +1,46 @@
+{
+    "title": "Name Shortener",
+    "description": "",
+    "filepath": "Revision/Name-Shortener/Name-Shortener.zip",
+    "author": "",
+    "timeCreated": "2023-12-08T09:06:21.047Z",
+    "timeUpdated": "2023-12-11T10:17:34.377Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "Ashley",
+            "input": "Ashley",
+            "output": "Ash",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:11:56.454Z",
+            "timeUpdated": "2023-12-08T09:11:56.454Z"
+        },
+        {
+            "name": "Joe",
+            "input": "Joe",
+            "output": "Joe",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:12:17.108Z",
+            "timeUpdated": "2023-12-08T09:12:17.108Z"
+        },
+        {
+            "name": "Ai",
+            "input": "Ai",
+            "output": "Ai",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:12:42.388Z",
+            "timeUpdated": "2023-12-08T09:12:42.388Z"
+        },
+        {
+            "name": "jasmine",
+            "input": "jasmine",
+            "output": "jas",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:12:52.872Z",
+            "timeUpdated": "2023-12-08T09:12:52.872Z"
+        }
+    ],
+    "unitTests": []
+}

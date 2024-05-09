@@ -1,0 +1,38 @@
+{
+    "title": "Input/Output: Hello, Stranger!",
+    "description": "",
+    "filepath": "Revision/InputOutput-Hello-Stranger/InputOutput-Hello-Stranger.zip",
+    "author": "",
+    "timeCreated": "2023-10-04T07:20:26.223Z",
+    "timeUpdated": "2023-12-08T08:32:07.917Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "Thomas",
+            "input": "Thomas",
+            "output": "Hello, Thomas!",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        },
+        {
+            "name": "Tim Tan Hong Ting",
+            "input": "Tim Tan Hong Ting",
+            "output": "Hello, Tim Tan Hong Ting!",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        },
+        {
+            "name": "12 asdf1 1212 @ *028",
+            "input": "12 asdf1 1212 @ *028&! @)!",
+            "output": "Hello, 12 asdf1 1212 @ *028&! @)!!",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        }
+    ],
+    "unitTests": []
+}

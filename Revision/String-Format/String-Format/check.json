@@ -1,0 +1,46 @@
+{
+    "title": "String Format",
+    "description": "",
+    "filepath": "Revision/String-Format/String-Format.zip",
+    "author": "",
+    "timeCreated": "2023-12-10T10:12:30.866Z",
+    "timeUpdated": "2024-01-03T10:26:22.385Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "True",
+            "input": "True",
+            "output": "Hi! My name is True",
+            "type": "exact",
+            "timeCreated": "2023-12-10T10:20:02.915Z",
+            "timeUpdated": "2023-12-10T10:20:02.915Z"
+        },
+        {
+            "name": "Jasmine",
+            "input": "Jasmine",
+            "output": "Hi! My name is Jasmine",
+            "type": "exact",
+            "timeCreated": "2023-12-10T10:20:14.027Z",
+            "timeUpdated": "2023-12-10T10:20:14.027Z"
+        },
+        {
+            "name": "James",
+            "input": "James",
+            "output": "Hi! My name is James",
+            "type": "exact",
+            "timeCreated": "2023-12-10T10:19:40.118Z",
+            "timeUpdated": "2023-12-10T10:19:40.119Z"
+        },
+        {
+            "name": "123",
+            "input": "123",
+            "output": "Hi! My name is 123",
+            "type": "exact",
+            "timeCreated": "2023-12-10T10:19:51.627Z",
+            "timeUpdated": "2023-12-10T10:19:51.627Z"
+        }
+    ],
+    "unitTests": []
+}

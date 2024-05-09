@@ -1,0 +1,38 @@
+{
+    "title": "Scopes and Lifetime: Debug code",
+    "description": "",
+    "filepath": "Scopes-and-Lifetime/Scopes-and-Lifetime-Debug-code/Scopes-and-Lifetime-Debug-code.zip",
+    "author": "",
+    "timeCreated": "2023-12-29T19:27:33.075Z",
+    "timeUpdated": "2024-01-05T19:11:09.571Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "1 2",
+            "input": "1\n2",
+            "output": "3\n",
+            "type": "exact",
+            "timeCreated": "2023-12-29T19:43:18.209Z",
+            "timeUpdated": "2023-12-29T19:44:17.447Z"
+        },
+        {
+            "name": "100 30",
+            "input": "100\n30",
+            "output": "130",
+            "type": "exact",
+            "timeCreated": "2023-12-29T19:51:27.600Z",
+            "timeUpdated": "2023-12-29T19:51:27.600Z"
+        },
+        {
+            "name": "0 0",
+            "input": "0\n0",
+            "output": "0",
+            "type": "exact",
+            "timeCreated": "2023-12-29T19:51:48.665Z",
+            "timeUpdated": "2023-12-29T19:51:48.665Z"
+        }
+    ],
+    "unitTests": []
+}

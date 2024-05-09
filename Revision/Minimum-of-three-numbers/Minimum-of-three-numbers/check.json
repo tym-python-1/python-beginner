@@ -1,0 +1,46 @@
+{
+    "title": "Minimum of three numbers",
+    "description": "",
+    "filepath": "Revision/Minimum-of-three-numbers/Minimum-of-three-numbers.zip",
+    "author": "",
+    "timeCreated": "2023-10-04T07:20:26.223Z",
+    "timeUpdated": "2023-12-13T07:14:54.986Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "1 2 3",
+            "input": "1\n2\n3",
+            "output": "1",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        },
+        {
+            "name": "74 32 11",
+            "input": "74\n32\n11",
+            "output": "11",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        },
+        {
+            "name": "5 3 7",
+            "input": "5\n3\n7",
+            "output": "3",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        },
+        {
+            "name": "10 30 4",
+            "input": "10\n30\n4",
+            "output": "4",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        }
+    ],
+    "unitTests": []
+}

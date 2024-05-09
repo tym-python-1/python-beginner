@@ -1,0 +1,38 @@
+{
+    "title": "Parameters and Arguments: Greet function",
+    "description": "",
+    "filepath": "Parameters-and-Arguments/Parameters-and-Arguments-Greet-function/Parameters-and-Arguments-Greet-function.zip",
+    "author": "",
+    "timeCreated": "2023-12-27T19:04:08.673Z",
+    "timeUpdated": "2024-01-05T15:10:53.442Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "Jasmine 13 151.5",
+            "input": "Jasmine\n13\n151.5",
+            "output": "Hi Jasmine!\nYou are currently 13 years old and 151.5m tall.",
+            "type": "exact",
+            "timeCreated": "2023-12-27T19:15:46.744Z",
+            "timeUpdated": "2023-12-27T19:18:14.389Z"
+        },
+        {
+            "name": "Jonathan 18 176",
+            "input": "Jonathan\n18\n176",
+            "output": "Hi Jonathan!\nYou are currently 18 years old and 176m tall.",
+            "type": "exact",
+            "timeCreated": "2023-12-27T19:19:23.065Z",
+            "timeUpdated": "2023-12-27T19:19:23.065Z"
+        },
+        {
+            "name": "Ashley 2155",
+            "input": "Ashley\n2\n155",
+            "output": "Hi Ashley!\nYou are currently 2 years old and 155m tall.",
+            "type": "match",
+            "timeCreated": "2023-12-27T19:20:10.473Z",
+            "timeUpdated": "2023-12-27T19:20:10.473Z"
+        }
+    ],
+    "unitTests": []
+}

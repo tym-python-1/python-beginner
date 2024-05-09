@@ -1,0 +1,38 @@
+{
+    "title": "Nested Loop: Left Triangle Pattern",
+    "description": "",
+    "filepath": "Nested-Loop/Nested-Loop-Left-Triangle-Pattern/Nested-Loop-Left-Triangle-Pattern.zip",
+    "author": "",
+    "timeCreated": "2023-12-21T07:37:03.371Z",
+    "timeUpdated": "2023-12-22T07:15:28.236Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "5",
+            "input": "5",
+            "output": "*\n**\n***\n****\n*****",
+            "type": "exact",
+            "timeCreated": "2023-12-21T08:00:30.507Z",
+            "timeUpdated": "2023-12-21T08:00:30.507Z"
+        },
+        {
+            "name": "1",
+            "input": "1",
+            "output": "*",
+            "type": "exact",
+            "timeCreated": "2023-12-21T08:00:39.133Z",
+            "timeUpdated": "2023-12-21T08:00:39.133Z"
+        },
+        {
+            "name": "10",
+            "input": "10",
+            "output": "*\n**\n***\n****\n*****\n******\n*******\n********\n*********\n**********",
+            "type": "exact",
+            "timeCreated": "2023-12-21T08:00:57.098Z",
+            "timeUpdated": "2023-12-21T08:00:57.098Z"
+        }
+    ],
+    "unitTests": []
+}

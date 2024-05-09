@@ -1,0 +1,46 @@
+{
+    "title": "Nested Loop: Rectangle Pattern",
+    "description": "",
+    "filepath": "Nested-Loop/Nested-Loop-Rectangle-Pattern/Nested-Loop-Rectangle-Pattern.zip",
+    "author": "",
+    "timeCreated": "2023-12-21T07:34:22.293Z",
+    "timeUpdated": "2023-12-21T07:56:04.929Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "3 5",
+            "input": "3\n5",
+            "output": "*****\n*****\n*****",
+            "type": "exact",
+            "timeCreated": "2023-12-21T07:42:01.996Z",
+            "timeUpdated": "2023-12-21T07:42:01.996Z"
+        },
+        {
+            "name": "8 1",
+            "input": "8\n1",
+            "output": "*\n*\n*\n*\n*\n*\n*\n*",
+            "type": "exact",
+            "timeCreated": "2023-12-21T07:42:45.189Z",
+            "timeUpdated": "2023-12-21T07:44:39.875Z"
+        },
+        {
+            "name": "1 8",
+            "input": "1\n8",
+            "output": "********",
+            "type": "exact",
+            "timeCreated": "2023-12-21T07:44:52.705Z",
+            "timeUpdated": "2023-12-21T07:44:52.706Z"
+        },
+        {
+            "name": "12 12",
+            "input": "12\n12",
+            "output": "************\n************\n************\n************\n************\n************\n************\n************\n************\n************\n************\n************",
+            "type": "exact",
+            "timeCreated": "2023-12-21T07:45:15.765Z",
+            "timeUpdated": "2023-12-21T07:45:15.765Z"
+        }
+    ],
+    "unitTests": []
+}

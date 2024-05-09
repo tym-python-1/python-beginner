@@ -1,0 +1,38 @@
+{
+    "title": "For Loop: Sum of 5 numbers",
+    "description": "",
+    "filepath": "Loops-For-and-While/For-Loop-Sum-of-5-numbers/For-Loop-Sum-of-5-numbers.zip",
+    "author": "",
+    "timeCreated": "2023-10-04T07:53:18.531Z",
+    "timeUpdated": "2023-10-04T07:53:18.530Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "4 23 1 0 8",
+            "input": "4\n23\n1\n0\n8",
+            "output": "36",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "1 2 3 4 5",
+            "input": "1\n2\n3\n4\n5",
+            "output": "15",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "1022 2312 231233 123",
+            "input": "1022\n2312\n231233\n123121\n0",
+            "output": "357688",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        }
+    ],
+    "unitTests": []
+}

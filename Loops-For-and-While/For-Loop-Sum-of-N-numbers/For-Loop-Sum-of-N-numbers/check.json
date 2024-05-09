@@ -1,0 +1,54 @@
+{
+    "title": "For Loop: Sum of N numbers",
+    "description": "",
+    "filepath": "Loops-For-and-While/For-Loop-Sum-of-N-numbers/For-Loop-Sum-of-N-numbers.zip",
+    "author": "",
+    "timeCreated": "2023-10-04T07:53:18.531Z",
+    "timeUpdated": "2023-10-04T07:53:18.530Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "4 4 4 4 4",
+            "input": "4\n4\n4\n4\n4",
+            "output": "16",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.545Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "0",
+            "input": "0",
+            "output": "0",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "2 235 56",
+            "input": "2\n235\n56",
+            "output": "291",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "1 891",
+            "input": "1\n891",
+            "output": "891",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        },
+        {
+            "name": "10 1 2 3 4 5 6 7 8 9",
+            "input": "10\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10",
+            "output": "55",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:53:18.546Z",
+            "timeUpdated": "2023-10-04T07:53:18.545Z"
+        }
+    ],
+    "unitTests": []
+}

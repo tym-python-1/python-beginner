@@ -1,0 +1,38 @@
+{
+    "title": "Maximum of two numbers",
+    "description": "",
+    "filepath": "Revision/Maximum-of-two-numbers/Maximum-of-two-numbers.zip",
+    "author": "",
+    "timeCreated": "2023-10-04T07:20:26.223Z",
+    "timeUpdated": "2023-12-13T07:14:46.469Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "3 9",
+            "input": "3\n9",
+            "output": "9.0",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        },
+        {
+            "name": "100000 -100000",
+            "input": "100000\n-100000",
+            "output": "100000.0",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        },
+        {
+            "name": "1.55 1.67",
+            "input": "1.55\n1.67",
+            "output": "1.67",
+            "type": "exact",
+            "timeCreated": "2023-10-04T07:20:26.233Z",
+            "timeUpdated": "2023-10-04T07:20:26.233Z"
+        }
+    ],
+    "unitTests": []
+}

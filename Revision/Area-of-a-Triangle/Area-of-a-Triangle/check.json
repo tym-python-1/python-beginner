@@ -1,0 +1,46 @@
+{
+    "title": "Area of a Triangle",
+    "description": "",
+    "filepath": "Revision/Area-of-a-Triangle/Area-of-a-Triangle.zip",
+    "author": "",
+    "timeCreated": "2023-12-08T08:54:31.800Z",
+    "timeUpdated": "2023-12-11T10:23:10.924Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "0.5 0.2",
+            "input": "0.5\n0.2",
+            "output": "0.05",
+            "type": "exact",
+            "timeCreated": "2023-12-11T11:13:52.654Z",
+            "timeUpdated": "2023-12-11T11:13:52.654Z"
+        },
+        {
+            "name": "1 2",
+            "input": "1\n2",
+            "output": "1.0",
+            "type": "exact",
+            "timeCreated": "2023-12-08T08:58:33.551Z",
+            "timeUpdated": "2023-12-08T08:58:33.551Z"
+        },
+        {
+            "name": "7 7",
+            "input": "7\n7",
+            "output": "24.5",
+            "type": "exact",
+            "timeCreated": "2023-12-08T08:59:18.434Z",
+            "timeUpdated": "2023-12-08T08:59:18.434Z"
+        },
+        {
+            "name": "0 0",
+            "input": "0\n0",
+            "output": "0.0",
+            "type": "exact",
+            "timeCreated": "2023-12-08T08:59:31.997Z",
+            "timeUpdated": "2023-12-08T08:59:31.997Z"
+        }
+    ],
+    "unitTests": []
+}

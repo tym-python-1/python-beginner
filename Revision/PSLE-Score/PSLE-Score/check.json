@@ -1,0 +1,142 @@
+{
+    "title": "PSLE Score",
+    "description": "",
+    "filepath": "Revision/PSLE-Score/PSLE-Score.zip",
+    "author": "",
+    "timeCreated": "2023-12-08T09:27:20.248Z",
+    "timeUpdated": "2023-12-13T07:33:10.038Z",
+    "isGroupProject": false,
+    "dueDate": "",
+    "isPublished": true,
+    "templateTests": [
+        {
+            "name": "100",
+            "input": "100",
+            "output": "1",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:49:19.539Z",
+            "timeUpdated": "2023-12-08T09:49:19.539Z"
+        },
+        {
+            "name": "90",
+            "input": "90",
+            "output": "1",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:49:28.155Z",
+            "timeUpdated": "2023-12-08T09:49:28.155Z"
+        },
+        {
+            "name": "89",
+            "input": "89",
+            "output": "2",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:49:38.903Z",
+            "timeUpdated": "2023-12-08T09:49:38.904Z"
+        },
+        {
+            "name": "85",
+            "input": "85",
+            "output": "2",
+            "type": "match",
+            "timeCreated": "2023-12-08T09:49:46.541Z",
+            "timeUpdated": "2023-12-08T09:49:46.541Z"
+        },
+        {
+            "name": "84",
+            "input": "84",
+            "output": "3",
+            "type": "match",
+            "timeCreated": "2023-12-08T09:49:54.206Z",
+            "timeUpdated": "2023-12-08T09:49:54.206Z"
+        },
+        {
+            "name": "80",
+            "input": "80",
+            "output": "3",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:50:00.904Z",
+            "timeUpdated": "2023-12-08T09:50:00.904Z"
+        },
+        {
+            "name": "75",
+            "input": "75",
+            "output": "4",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:50:12.665Z",
+            "timeUpdated": "2023-12-08T09:50:12.665Z"
+        },
+        {
+            "name": "79",
+            "input": "79",
+            "output": "4",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:50:45.728Z",
+            "timeUpdated": "2023-12-08T09:50:45.728Z"
+        },
+        {
+            "name": "74",
+            "input": "74",
+            "output": "5",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:51:18.100Z",
+            "timeUpdated": "2023-12-08T09:51:18.100Z"
+        },
+        {
+            "name": "65",
+            "input": "65",
+            "output": "5",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:51:25.558Z",
+            "timeUpdated": "2023-12-08T09:51:25.558Z"
+        },
+        {
+            "name": "64",
+            "input": "64",
+            "output": "6",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:51:37.296Z",
+            "timeUpdated": "2023-12-08T09:51:37.296Z"
+        },
+        {
+            "name": "45",
+            "input": "45",
+            "output": "6",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:51:45.634Z",
+            "timeUpdated": "2023-12-08T09:51:45.634Z"
+        },
+        {
+            "name": "44",
+            "input": "44",
+            "output": "7",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:51:53.214Z",
+            "timeUpdated": "2023-12-08T09:51:53.214Z"
+        },
+        {
+            "name": "20",
+            "input": "20",
+            "output": "7",
+            "type": "match",
+            "timeCreated": "2023-12-08T09:52:06.826Z",
+            "timeUpdated": "2023-12-08T09:52:06.826Z"
+        },
+        {
+            "name": "19",
+            "input": "19",
+            "output": "8",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:52:25.659Z",
+            "timeUpdated": "2023-12-08T09:52:25.660Z"
+        },
+        {
+            "name": "0",
+            "input": "0",
+            "output": "8",
+            "type": "exact",
+            "timeCreated": "2023-12-08T09:52:36.133Z",
+            "timeUpdated": "2023-12-08T09:52:36.133Z"
+        }
+    ],
+    "unitTests": []
+}
