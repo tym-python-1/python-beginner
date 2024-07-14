@@ -3,7 +3,6 @@
 # .py is an extension which denotes that the file is a python file
 import math
 import random
-import requests
 # import statements are always located at the top of the file
 from constants import cat_image, dog_image, greetings
 
